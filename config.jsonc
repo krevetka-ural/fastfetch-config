@@ -15,37 +15,37 @@
     "break",
     {
       "type": "os",
-      "key": "SYSTEM"
+      "key": " SYSTEM"
     },
     {
       "type": "packages",
-      "key": "PACKAGES"
+      "key": "󰏗 PACKAGES"
     },
     "break",
     {
       "type": "de",
-      "key": "DESKTOP"
+      "key": "󱈹 DESKTOP"
     },
     {
       "type": "terminal",
-      "key": "TERM"
+      "key": " TERM"
     },
     {
       "type": "shell",
-      "key": "SHELL"
+      "key": "󰈺 SHELL"
     },
     "break",
     {
       "type": "cpu",
-      "key": "CPU"
+      "key": " CPU"
     },
     {
       "type": "gpu",
-      "key": "GPU"
+      "key": "󰡁 GPU"
     },
     {
       "type": "memory",
-      "key": "RAM"
+      "key": " RAM"
     },
     {
       "type": "color",
