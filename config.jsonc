@@ -113,6 +113,7 @@
     },
     {
       "type": "colors",
+      "key": "  nix.colors",
       "symbol": "circle"
     },
     {
