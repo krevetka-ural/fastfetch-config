@@ -5,9 +5,6 @@
   },
   "display": {
     "separator": " = ",
-//    "key": {
-//      "width": 16
-//    }
     },
   "modules": [
     {
